@@ -6,3 +6,4 @@ class Ball (radius, color) {
     int ball_radius = radius;    // radius of the circle representing the 'ball'
     
     // Methods
+}
